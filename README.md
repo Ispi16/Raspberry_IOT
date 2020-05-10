@@ -24,7 +24,7 @@ Solving the problems encountered:
 Architecture
 -----
 
-![Architecture diagram](architecture.jpg)
+![Architecture diagram](architecture.png)
 
 
 Graphs resulted
